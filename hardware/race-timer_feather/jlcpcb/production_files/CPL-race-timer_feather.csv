@@ -1,0 +1,12 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,~,PinSocket_1x16_P2.54mm_Vertical,148.5011,-115.1636,90.0,top
+J2,~,PinSocket_1x12_P2.54mm_Vertical,153.5811,-94.8436,90.0,top
+J3,SENSOR1_RX,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,138.5,-107.75,0.0,top
+J4,SENSOR2_RX,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,138.5,-100.25,0.0,top
+J5,SENSOR1_TX,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,149.0,-107.75,0.0,top
+J6,SENSOR2_TX,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,149.0,-100.25,0.0,top
+J7,PWR,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,128.75,-105.0,-90.0,top
+J8,DISP,PinHeader_1x05_P2.54mm_Vertical,162.495,-98.75,-90.0,top
+PS1,5V DC-DC Converter,Converter_DCDC_XP_POWER-ITXxxxxSA_THT,6.525,-11.455,0.0,top
+R1,10K,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,160.75,-110.0,0.0,top
+R2,10K,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,160.75,-106.0,0.0,top
